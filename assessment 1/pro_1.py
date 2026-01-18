@@ -1,0 +1,1 @@
+print("Name : kittu , Age:20 , City: Surat")
